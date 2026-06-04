@@ -1,0 +1,154 @@
+{
+  "title": "ರೈತ ಇ-ಮಾರ್ಕೆಟ್",
+  "language": "ಕನ್ನಡ",
+  "buyerDashboard": "ಖರೀದಿದಾರ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "logout": "ಲಾಗ್‌ಔಟ್",
+
+  "smartAgriTitle": "AI ಸಹಿತ ಸ್ಮಾರ್ಟ್ ಕೃಷಿ 🌿",
+  "smartAgriDesc": "ಸರಿಯಾದ ಬೆಳೆ ಭವಿಷ್ಯವಾಣಿ, ರೋಗ ಎಚ್ಚರಿಕೆ ಮತ್ತು ಹವಾಮಾನ ಮಾಹಿತಿ ಪಡೆಯಿರಿ.",
+
+  "accuracy": "95% ನಿಖರತೆ",
+  "diseaseDetection": "ರೋಗ ಪತ್ತೆ",
+  "weatherForecast": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ",
+
+  "featuresTitle": "ಆಧುನಿಕ ಕೃಷಿಗೆ ಶಕ್ತಿಶಾಲಿ ವೈಶಿಷ್ಟ್ಯಗಳು",
+
+  "cropRecommendation": "ಬೆಳೆ ಶಿಫಾರಸು",
+  "cropDesc": "ಬೆಳೆ ಶಿಫಾರಸು ನೋಡಿ",
+
+  "yieldPrediction": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ",
+  "yieldDesc": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ ನೋಡಿ",
+
+  "diseaseDetectionFeature": "ರೋಗ ಪತ್ತೆ",
+  "diseaseDesc": "ರೋಗ ಪತ್ತೆ ನೋಡಿ",
+
+  "fertilizerGuide": "ರಸಗೊಬ್ಬರ ಮಾರ್ಗದರ್ಶಿ",
+  "fertilizerDesc": "ರಸಗೊಬ್ಬರ ಮಾರ್ಗದರ್ಶಿ ನೋಡಿ",
+
+  "weatherFeature": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ",
+  "weatherDesc": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ನೋಡಿ",
+
+  "farmerConnect": "ರೈತ ಸಂಪರ್ಕ",
+  "farmerDesc": "ರೈತರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ",
+
+  "quickActions": "ತ್ವರಿತ ಕಾರ್ಯಗಳು",
+
+  "predictionHistory": "ಭವಿಷ್ಯವಾಣಿ ಇತಿಹಾಸ",
+  "historyDesc": "ನಿಮ್ಮ ಹಳೆಯ ಭವಿಷ್ಯವಾಣಿಗಳನ್ನು ನೋಡಿ",
+
+  "weather": "ಹವಾಮಾನ",
+  "weatherDesc2": "ಇಂದಿನ ಹವಾಮಾನ ನೋಡಿ",
+
+  "addCrop": "ಬೆಳೆ ಸೇರಿಸಿ",
+  "addCropDesc": "ಮಾರ್ಕೆಟ್‌ಪ್ಲೇಸ್‌ಗೆ ಬೆಳೆ ಸೇರಿಸಿ",
+
+  "smartCrop": "ಸ್ಮಾರ್ಟ್ ಬೆಳೆ ಶಿಫಾರಸು",
+  "aiSystem": "AI ಆಧಾರಿತ ಬೆಳೆ + ಉತ್ಪಾದನೆ ಪೂರ್ವಾನುಮಾನ ವ್ಯವಸ್ಥೆ",
+
+  "rainfall": "ಮಳೆ (ಮಿಮೀ)",
+  "temperature": "ತಾಪಮಾನ (°C)",
+  "humidity": "ಆರ್ದ್ರತೆ (%)",
+
+  "selectSoil": "ಮಣ್ಣಿನ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+  "clay": "ಚಿಕ್ಕಣಿ ಮಣ್ಣು",
+  "sandy": "ಮರಳು ಮಣ್ಣು",
+  "black": "ಕರಿ ಮಣ್ಣು",
+  "loamy": "ಲೋಮಿ ಮಣ್ಣು",
+  "red": "ಕೆಂಪು ಮಣ್ಣು",
+
+  "soilPh": "ಮಣ್ಣಿನ pH (0-14)",
+
+  "selectSeason": "ಋತು ಆಯ್ಕೆಮಾಡಿ",
+  "kharif": "ಖರೀಫ್",
+  "rabi": "ರಬಿ",
+  "zaid": "ಜೈದ್",
+
+  "farmSize": "ಕೃಷಿಭೂಮಿ ಗಾತ್ರ (ಹೆಕ್ಟೇರ್)",
+
+  "waterAvailability": "ನೀರಿನ ಲಭ್ಯತೆ",
+  "low": "ಕಡಿಮೆ",
+  "medium": "ಮಧ್ಯಮ",
+  "high": "ಹೆಚ್ಚು",
+
+  "farmingExperience": "ಕೃಷಿ ಅನುಭವ",
+  "beginner": "ಪ್ರಾರಂಭಿಕ",
+  "intermediate": "ಮಧ್ಯಮ",
+  "expert": "ತಜ್ಞ",
+
+  "marketPreference": "ಮಾರುಕಟ್ಟೆ ಆಯ್ಕೆ",
+  "foodCrops": "ಆಹಾರ ಬೆಳೆಗಳು",
+  "cashCrops": "ನಗದು ಬೆಳೆಗಳು",
+  "mixedFarming": "ಮಿಶ್ರ ಕೃಷಿ",
+
+  "processing": "ಪ್ರಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ...",
+  "getRecommendation": "ಶಿಫಾರಸು ಪಡೆಯಿರಿ 🌿",
+
+  "somethingWrong": "ಏನೋ ತಪ್ಪಾಗಿದೆ ⚠️ ಬ್ಯಾಕೆಂಡ್ ಪರಿಶೀಲಿಸಿ",
+
+  "recommendedCrop": "ಶಿಫಾರಸು ಮಾಡಿದ ಬೆಳೆ",
+  "expectedYield": "ಅಂದಾಜು ಉತ್ಪಾದನೆ",
+  "confidence": "ವಿಶ್ವಾಸ ಮಟ್ಟ",
+
+  
+  "yieldPageTitle": "ಬೆಳೆ ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ",
+  "yieldPageDesc": "ಹವಾಮಾನ ಮತ್ತು ಮಣ್ಣಿನ ಸ್ಥಿತಿಯ ಆಧಾರದ ಮೇಲೆ ಅಂದಾಜು ಉತ್ಪಾದನೆ ತಿಳಿಯಿರಿ",
+
+  "selectCrop": "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ",
+  "rice": "ಅಕ್ಕಿ 🌾",
+  "wheat": "ಗೋಧಿ 🌿",
+  "maize": "ಜೋಳ 🌽",
+  "cotton": "ಹತ್ತಿ 🌱",
+  "groundnut": "ಕಡಲೆಕಾಯಿ 🥜",
+
+  "predicting": "ಮುನ್ಸೂಚನೆ ನಡೆಯುತ್ತಿದೆ...",
+  "predictYield": "ಉತ್ಪಾದನೆ ಊಹಿಸಿ 📊",
+
+  "yieldError": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ ⚠️",
+
+  "cropLabel": "ಬೆಳೆ",
+
+
+  "smartDetection": "ಸ್ಮಾರ್ಟ್ ರೋಗ ಪತ್ತೆ",
+  "riskPrediction": "ಅಪಾಯ ಮುನ್ಸೂಚನೆ",
+  "imageDetection": "ಚಿತ್ರ ಪತ್ತೆ",
+
+  "cropType": "ಬೆಳೆ ಪ್ರಕಾರ",
+  "pesticideDays": "ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಿದ ನಂತರದ ದಿನಗಳು",
+
+  "analyzing": "ವಿಶ್ಲೇಷಣೆ ನಡೆಯುತ್ತಿದೆ...",
+  "assessRisk": "ಅಪಾಯ ಪರಿಶೀಲಿಸಿ 🌿",
+
+  "detecting": "ಪತ್ತೆಹಚ್ಚಲಾಗುತ್ತಿದೆ...",
+  "detectDisease": "ರೋಗ ಪತ್ತೆ ಮಾಡಿ 📷",
+
+  "result": "ಫಲಿತಾಂಶ",
+  "risk": "ಅಪಾಯ",
+  "diseases": "ಸಂಭಾವ್ಯ ರೋಗಗಳು",
+  "tips": "ಸಲಹೆಗಳು",
+
+  "detectionResult": "ಪತ್ತೆ ಫಲಿತಾಂಶ",
+  "crop": "ಬೆಳೆ",
+  "disease": "ರೋಗ",
+  "cure": "ಚಿಕಿತ್ಸೆ",
+
+  "selectImage": "ದಯವಿಟ್ಟು ಚಿತ್ರ ಆಯ್ಕೆಮಾಡಿ",
+  "errorRisk": "ರೋಗ ಅಪಾಯ ವಿಶ್ಲೇಷಣೆ ವಿಫಲವಾಗಿದೆ ⚠️",
+  "errorImage": "ಚಿತ್ರದಿಂದ ರೋಗ ಪತ್ತೆ ವಿಫಲವಾಗಿದೆ ⚠️",
+
+  "na": "ಲಭ್ಯವಿಲ್ಲ",
+  "aiDiseaseDesc": "AI ಆಧಾರಿತ ಬೆಳೆ ರೋಗ ವಿಶ್ಲೇಷಣಾ ವ್ಯವಸ್ಥೆ",
+
+  "fertilizerTitle": "ರಸಗೊಬ್ಬರ ಶಿಫಾರಸು",
+
+  "nitrogen": "ನೈಟ್ರೋಜನ್ (N)",
+  "phosphorus": "ಫಾಸ್ಫರಸ್ (P)",
+  "potassium": "ಪೊಟ್ಯಾಸಿಯಂ (K)",
+
+  "soilType": "ಮಣ್ಣಿನ ಪ್ರಕಾರ",
+
+  "getFertilizer": "ಶಿಫಾರಸು ಪಡೆಯಿರಿ 🌱",
+
+  "fertilizerError": "❌ ಶಿಫಾರಸು ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ",
+
+  "recommendedFertilizer": "ಶಿಫಾರಸು ಮಾಡಿದ ರಸಗೊಬ್ಬರ"
+}

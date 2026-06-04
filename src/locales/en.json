@@ -1,0 +1,154 @@
+{
+  "title": "Farmer E-Market",
+  "language": "English",
+  "buyerDashboard": "Buyer Dashboard",
+  "logout": "Logout",
+
+  "smartAgriTitle": "Smart Agriculture with AI 🌿",
+  "smartAgriDesc": "Get accurate crop predictions, disease alerts, and weather insights.",
+
+  "accuracy": "95% Accuracy",
+  "diseaseDetection": "Disease Detection",
+  "weatherForecast": "Weather Forecast",
+
+  "featuresTitle": "Powerful Features for Modern Farming",
+
+  "cropRecommendation": "Crop Recommendation",
+  "cropDesc": "Click to explore Crop Recommendation",
+
+  "yieldPrediction": "Yield Prediction",
+  "yieldDesc": "Click to explore Yield Prediction",
+
+  "diseaseDetectionFeature": "Disease Detection",
+  "diseaseDesc": "Click to explore Disease Detection",
+
+  "fertilizerGuide": "Fertilizer Guide",
+  "fertilizerDesc": "Click to explore Fertilizer Guide",
+
+  "weatherFeature": "Weather Forecast",
+  "weatherDesc": "Click to explore Weather Forecast",
+
+  "farmerConnect": "Farmer Connect",
+  "farmerDesc": "Click to explore Farmer Connect",
+
+  "quickActions": "Quick Actions",
+
+  "predictionHistory": "Prediction History",
+  "historyDesc": "View your past crop predictions",
+
+  "weather": "Weather",
+  "weatherDesc2": "Check today's weather forecast",
+
+  "addCrop": "Add Crop",
+  "addCropDesc": "Add crops to marketplace",
+
+  "smartCrop": "Smart Crop Recommendation",
+  "aiSystem": "AI-based crop + yield prediction system",
+
+  "rainfall": "Rainfall (mm)",
+  "temperature": "Temperature (°C)",
+  "humidity": "Humidity (%)",
+
+  "selectSoil": "Select Soil Type",
+  "clay": "Clay",
+  "sandy": "Sandy",
+  "black": "Black",
+  "loamy": "Loamy",
+  "red": "Red",
+
+  "soilPh": "Soil pH (0-14)",
+
+  "selectSeason": "Select Season",
+  "kharif": "Kharif",
+  "rabi": "Rabi",
+  "zaid": "Zaid",
+
+  "farmSize": "Farm Size (hectare)",
+
+  "waterAvailability": "Water Availability",
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+
+  "farmingExperience": "Farming Experience",
+  "beginner": "Beginner",
+  "intermediate": "Intermediate",
+  "expert": "Expert",
+
+  "marketPreference": "Market Preference",
+  "foodCrops": "Food Crops",
+  "cashCrops": "Cash Crops",
+  "mixedFarming": "Mixed Farming",
+
+  "processing": "Processing...",
+  "getRecommendation": "Get Recommendation 🌿",
+
+  "somethingWrong": "Something went wrong ⚠️ Check backend",
+
+  "recommendedCrop": "Recommended Crop",
+  "expectedYield": "Expected Yield",
+  "confidence": "Confidence",
+  
+  "yieldPageTitle": "Crop Yield Prediction",
+  "yieldPageDesc": "Predict expected yield based on weather & soil conditions",
+
+
+  "selectCrop": "Select Crop",
+  "rice": "Rice 🌾",
+  "wheat": "Wheat 🌿",
+  "maize": "Maize 🌽",
+  "cotton": "Cotton 🌱",
+  "groundnut": "Groundnut 🥜",
+
+  "predicting": "Predicting...",
+  "predictYield": "Predict Yield 📊",
+
+  "yieldError": "Failed to fetch yield prediction ⚠️",
+  "cropLabel": "Crop",
+
+  "smartDetection": "Smart Disease Detection",
+  "riskPrediction": "Risk Prediction",
+  "imageDetection": "Image Detection",
+
+  "cropType": "Crop Type",
+  "pesticideDays": "Days Since Pesticide Spray",
+
+  "analyzing": "Analyzing...",
+  "assessRisk": "Assess Risk 🌿",
+
+  "detecting": "Detecting...",
+  "detectDisease": "Detect Disease 📷",
+
+  "result": "Result",
+  "risk": "Risk",
+  "diseases": "Possible Diseases",
+  "tips": "Tips",
+
+  "detectionResult": "Detection Result",
+  "crop": "Crop",
+  "disease": "Disease",
+  "cure": "Cure",
+
+  "selectImage": "Please select an image",
+  "errorRisk": "Failed to analyze disease risk ⚠️",
+  "errorImage": "Failed to detect disease from image ⚠️",
+
+  "na": "N/A",
+  "aiDiseaseDesc": "AI-powered crop disease analysis system",
+
+  "fertilizerTitle": "Fertilizer Recommendation",
+
+  "nitrogen": "Nitrogen (N)",
+  "phosphorus": "Phosphorus (P)",
+  "potassium": "Potassium (K)",
+
+  "soilType": "Soil Type",
+
+  
+  "getFertilizer": "Get Recommendation 🌱",
+
+  "fertilizerError": "❌ Failed to get recommendation",
+
+  "recommendedFertilizer": "Recommended Fertilizer"
+
+}

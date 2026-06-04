@@ -1,0 +1,52 @@
+/* Make all text black inside weather themes */
+
+.weather-sunny,
+.weather-cloudy,
+.weather-rainy {
+  color: #000;
+}
+
+/* Inputs / placeholders / labels */
+.weather-sunny input,
+.weather-cloudy input,
+.weather-rainy input,
+.weather-sunny select,
+.weather-cloudy select,
+.weather-rainy select,
+.weather-sunny textarea,
+.weather-cloudy textarea,
+.weather-rainy textarea {
+  color: #000;
+}
+
+.weather-sunny input::placeholder,
+.weather-cloudy input::placeholder,
+.weather-rainy input::placeholder {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* Buttons text black if needed */
+.weather-sunny button,
+.weather-cloudy button,
+.weather-rainy button {
+  color: #000;
+}
+
+/* Headings / paragraphs / spans */
+.weather-sunny h1,
+.weather-sunny h2,
+.weather-sunny h3,
+.weather-sunny p,
+.weather-sunny span,
+.weather-cloudy h1,
+.weather-cloudy h2,
+.weather-cloudy h3,
+.weather-cloudy p,
+.weather-cloudy span,
+.weather-rainy h1,
+.weather-rainy h2,
+.weather-rainy h3,
+.weather-rainy p,
+.weather-rainy span {
+  color: #000;
+}

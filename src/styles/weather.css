@@ -1,0 +1,45 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.weather-container {
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.weather-container.sunny {
+  background: linear-gradient(to right, #fceabb, #f8b500);
+}
+
+.weather-container.rainy {
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+
+.weather-container.cloudy {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+}

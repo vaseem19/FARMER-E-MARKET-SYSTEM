@@ -1,0 +1,156 @@
+{
+  "title": "किसान ई-मार्केट",
+  "language": "हिंदी",
+  "buyerDashboard": "खरीदार डैशबोर्ड",
+  "logout": "लॉगआउट",
+
+  "smartAgriTitle": "AI के साथ स्मार्ट कृषि 🌿",
+  "smartAgriDesc": "सटीक फसल भविष्यवाणी, रोग अलर्ट और मौसम जानकारी प्राप्त करें।",
+
+  "accuracy": "95% सटीकता",
+  "diseaseDetection": "रोग पहचान",
+  "weatherForecast": "मौसम पूर्वानुमान",
+
+  "featuresTitle": "आधुनिक खेती के लिए शक्तिशाली सुविधाएँ",
+
+  "cropRecommendation": "फसल सिफारिश",
+  "cropDesc": "फसल सिफारिश देखें",
+
+  "yieldPrediction": "उपज पूर्वानुमान",
+  "yieldDesc": "उपज पूर्वानुमान देखें",
+
+  "diseaseDetectionFeature": "रोग पहचान",
+  "diseaseDesc": "रोग पहचान देखें",
+
+  "fertilizerGuide": "उर्वरक गाइड",
+  "fertilizerDesc": "उर्वरक गाइड देखें",
+
+  "weatherFeature": "मौसम पूर्वानुमान",
+  "weatherDesc": "मौसम पूर्वानुमान देखें",
+
+  "farmerConnect": "किसान कनेक्ट",
+  "farmerDesc": "किसानों से जुड़ें",
+
+  "quickActions": "त्वरित कार्य",
+
+  "predictionHistory": "पूर्वानुमान इतिहास",
+  "historyDesc": "अपने पुराने पूर्वानुमान देखें",
+
+  "weather": "मौसम",
+  "weatherDesc2": "आज का मौसम देखें",
+
+  "addCrop": "फसल जोड़ें",
+  "addCropDesc": "मार्केटप्लेस में फसल जोड़ें",
+
+  "smartCrop": "स्मार्ट फसल सिफारिश",
+  "aiSystem": "AI आधारित फसल + उपज पूर्वानुमान प्रणाली",
+
+  "rainfall": "वर्षा (मिमी)",
+  "temperature": "तापमान (°C)",
+  "humidity": "आर्द्रता (%)",
+
+  "selectSoil": "मिट्टी का प्रकार चुनें",
+  "clay": "चिकनी मिट्टी",
+  "sandy": "रेतीली",
+  "black": "काली",
+  "loamy": "दोमट",
+  "red": "लाल",
+
+  "soilPh": "मिट्टी pH (0-14)",
+
+  "selectSeason": "मौसम चुनें",
+  "kharif": "खरीफ",
+  "rabi": "रबी",
+  "zaid": "जायद",
+
+  "farmSize": "खेत का आकार (हेक्टेयर)",
+
+  "waterAvailability": "पानी की उपलब्धता",
+  "low": "कम",
+  "medium": "मध्यम",
+  "high": "अधिक",
+
+  "farmingExperience": "खेती का अनुभव",
+  "beginner": "शुरुआती",
+  "intermediate": "मध्यम",
+  "expert": "विशेषज्ञ",
+
+  "marketPreference": "बाज़ार पसंद",
+  "foodCrops": "खाद्य फसलें",
+  "cashCrops": "नकदी फसलें",
+  "mixedFarming": "मिश्रित खेती",
+
+  "processing": "प्रोसेस हो रहा है...",
+  "getRecommendation": "सिफारिश प्राप्त करें 🌿",
+
+  "somethingWrong": "कुछ गलत हुआ ⚠️ बैकएंड जांचें",
+
+  "recommendedCrop": "सिफारिश की गई फसल",
+  "expectedYield": "अपेक्षित उपज",
+  "confidence": "विश्वास स्तर",
+
+
+  "yieldPageTitle": "फसल उपज पूर्वानुमान",
+  "yieldPageDesc": "मौसम और मिट्टी की स्थिति के आधार पर अनुमानित उपज जानें",
+
+  "selectCrop": "फसल चुनें",
+  "rice": "धान 🌾",
+  "wheat": "गेहूं 🌿",
+  "maize": "मक्का 🌽",
+  "cotton": "कपास 🌱",
+  "groundnut": "मूंगफली 🥜",
+
+  "predicting": "पूर्वानुमान हो रहा है...",
+  "predictYield": "उपज पूर्वानुमान 📊",
+
+  "yieldError": "उपज पूर्वानुमान प्राप्त नहीं हुआ ⚠️",
+  "cropLabel": "फसल",
+
+  "smartDetection": "स्मार्ट रोग पहचान",
+  "riskPrediction": "जोखिम पूर्वानुमान",
+  "imageDetection": "छवि पहचान",
+
+  "cropType": "फसल प्रकार",
+  "pesticideDays": "कीटनाशक छिड़काव के बाद दिन",
+
+  "analyzing": "विश्लेषण हो रहा है...",
+  "assessRisk": "जोखिम जाँचें 🌿",
+
+  "detecting": "पहचान हो रही है...",
+  "detectDisease": "रोग पहचानें 📷",
+
+  "result": "परिणाम",
+  "risk": "जोखिम",
+  "diseases": "संभावित रोग",
+  "tips": "सुझाव",
+
+  "detectionResult": "पहचान परिणाम",
+  "crop": "फसल",
+  "disease": "रोग",
+  "cure": "उपचार",
+
+  "selectImage": "कृपया छवि चुनें",
+  "errorRisk": "रोग जोखिम विश्लेषण विफल ⚠️",
+  "errorImage": "छवि से रोग पहचान विफल ⚠️",
+
+  "na": "उपलब्ध नहीं",
+  "aiDiseaseDesc": "AI आधारित फसल रोग विश्लेषण प्रणाली",
+
+  
+  "fertilizerTitle": "उर्वरक सिफारिश",
+  
+
+  "nitrogen": "नाइट्रोजन (N)",
+  "phosphorus": "फॉस्फोरस (P)",
+  "potassium": "पोटैशियम (K)",
+
+  
+  "soilType": "मिट्टी प्रकार",
+
+  
+  "getFertilizer": "सिफारिश प्राप्त करें 🌱",
+
+  "fertilizerError": "❌ सिफारिश प्राप्त नहीं हुई",
+
+  "recommendedFertilizer": "सुझाया गया उर्वरक"
+}
